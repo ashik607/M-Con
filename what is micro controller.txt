@@ -1,0 +1,12 @@
+A microcontroller is a compact integrated circuit that controls
+ electronic devices by processing data and managing input
+
+একটি মাইক্রোকন্ট্রোলার হল একটি কমপ্যাক্ট ইন্টিগ্রেটেড সার্কিট যা ডেটা প্রক্রিয়াকরণ
+ এবং ইনপুট পরিচালনা করে ইলেকট্রনিক ডিভাইসগুলিকে নিয়ন্ত্রণ করে
+
+
+Computer architecture refers to the design and organization of a computer system, 
+including its components, structure, and how they interact to perform tasks.
+
+কম্পিউটার স্থাপত্য একটি কম্পিউটার সিস্টেমের নকশা এবং সংগঠনকে বোঝায়, এর উপাদান, 
+গঠন এবং তারা কীভাবে কাজ সম্পাদন করতে পারস্পরিক ক্রিয়া করে।
